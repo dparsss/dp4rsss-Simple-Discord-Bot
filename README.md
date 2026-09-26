@@ -1,4 +1,4 @@
-# P4rso's Discord Bot
+# dparsss's Discord Bot
 
 A Discord bot I built as a personal project while learning JavaScript and Discord bot development.
 
